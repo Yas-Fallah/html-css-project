@@ -334,6 +334,7 @@ about us
 .aboutImg img{
     transition: var(--trans);
 }
+
 .aboutContainer:hover img{
     transform: scale(1.2);
     opacity: 0.5;
